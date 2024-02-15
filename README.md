@@ -31,7 +31,7 @@
 
   ### 📶 DEPLOYEMENT SUPPORT
 
-<details><summary>🔥 Deploy To Koyeb 🔥</summary>
+<details><summary>Deploy To Koyeb</summary>
 <p>
 <br>                 
 <a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/JishuDeveloper/Auto-Rename-Bot&branch=main&name=auto-rename-bot" >
