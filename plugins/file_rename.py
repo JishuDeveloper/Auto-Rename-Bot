@@ -12,8 +12,6 @@ import os
 import time
 import re
 
-FILES_CHANNEL = Config.FILES_CHANNEL
-
 renaming_operations = {}
 
 # Pattern 1: S01E02 or S01EP02
