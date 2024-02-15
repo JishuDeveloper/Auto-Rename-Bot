@@ -74,7 +74,7 @@
 
 `/autorename` - To auto rename your files.
 
-`/start` - To set your media type preference.
+`/setmedia` - To set your media type preference.
 
 `/start` - To know how to use me.
  
