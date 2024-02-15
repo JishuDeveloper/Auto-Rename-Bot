@@ -39,7 +39,7 @@
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
-            "value": "pyro-botz",
+            "value": "",
             "required": false
         },
         "START_PIC": {
