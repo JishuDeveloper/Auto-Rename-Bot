@@ -63,7 +63,7 @@
 
 ### ALL COMMANDS
 
-start - Check if the bot is running.
+```start - Check if the bot is running.
 autorename - To auto rename your files.
 setmedia - To set your media type preference.
 start - To know how to use me.
