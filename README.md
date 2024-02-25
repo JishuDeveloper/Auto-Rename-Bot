@@ -86,6 +86,4 @@ status - Check bot status [FOR ADMINS USE ONLY].
 - [lntechnical](https://github.com/lntechnical2)
 
 ### 😍 BOTS CHANNEL 😍
-<a href="https://t.me/madflix_bots">
-   <p>🤖 Madflix Botz</p>
-</a>
+- [Madflix Botz](https://t.me/Madflix_Bots)
