@@ -7,7 +7,7 @@
 <p align="center">🤍 Thanks for Being Here 🤍</p>
 
 
-### ⚡️ Configs 
+### CONFIGS VARIABLES
 
 * `BOT_TOKEN`  - Get bot token from @BotFather
 * `API_ID` - From my.telegram.org
@@ -21,7 +21,7 @@
 
 
 
-  ### 📶 DEPLOYEMENT SUPPORT
+### DEPLOYEMENT SUPPORT
 
 <details><summary>Deploy To Koyeb</summary>
 <p>
@@ -45,7 +45,7 @@
 
 
 
-#### 🥰 Features
+### FEATURES
  - Renames very fast .
  - Permanent Thumbnail support.
  - Force join for the user for use.
@@ -61,43 +61,33 @@
 
 
 
-### 🚦 User Commands
+### USER COMMANDS
+
 `/start` - Check if the bot is running.
-
 `/autorename` - To auto rename your files.
-
 `/setmedia` - To set your media type preference.
-
 `/start` - To know how to use me.
- 
 `/viewthumb` - To view current thumbnail.
- 
 `/delthumb` - To delete current thumbnail.
- 
 `/set_caption` - set a custom caption.
- 
 `/see_caption` - see your custom caption.
- 
 `/del_caption` - delete custom caption.
 
 
-
-### Admin Commands
+### ADMIN COMMANDS
 
 `/restart` - To restart the bot [FOR ADMINS USE ONLY]
- 
-`/broadcast` - Message Broadcast command [FOR ADMINS USE ONLY].
- 
-`/status` - Check bot status [FOR ADMINS USE ONLY].
+ `/broadcast` - Message Broadcast command [FOR ADMINS USE ONLY].
+ `/status` - Check bot status [FOR ADMINS USE ONLY].
 
 
 
-#### 🧡 Respecting... 🧡
+### ❤️ Respecting... ❤️
 - [🔥 JishuDeveloper](https://github.com/JishuDeveloper)
 - [🔥 Trippy](https://github.com/Trippy07) 
 - [🔥 lntechnical](https://github.com/lntechnical2)
 
-### 🤩 Bots Channel
+### 😍 BOTS CHANNEL 😍
 <a href="https://t.me/madflix_bots">
-   <p>❣️ Madflix Botz 🔥</p>
+   <p>🤖 Madflix Botz</p>
 </a>
