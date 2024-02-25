@@ -101,7 +101,8 @@
 
 
 #### 🧡 Respecting... 🧡
-- [🔥 JishuDeveloper](https://github.com/JishuDeveloper) 
+- [🔥 JishuDeveloper](https://github.com/JishuDeveloper)
+- [🔥 Trippy](https://github.com/Trippy07) 
 - [🔥 lntechnical](https://github.com/lntechnical2)
 
 ### 🤩 Bots Channel
