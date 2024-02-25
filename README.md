@@ -10,24 +10,16 @@
 ### ⚡️ Configs 
 
 * `BOT_TOKEN`  - Get bot token from @BotFather
-
 * `API_ID` - From my.telegram.org
-
 * `API_HASH` - From my.telegram.org
-
-* `ADMIN` - Bot controllers id's , multiple id use space to split.
-
-* `LOG_CHANNEL` - Bot Log Sending Channel ⚠️ Id startswith -100 must.
-
+* `ADMIN` - Admin user id
+* `LOG_CHANNEL` - Bot Log Channel ⚠️ Id startswith -100 must.
 * `DB_URL`  - Mongo Database URL from https://cloud.mongodb.com
-
 * `DB_NAME`  - Your database name from mongoDB. `Optional`
-
 * `FORCE_SUB` - Your force sub channel username without @ `Optional`
-
 * `START_PIC` - Start message photo. `Optional`
 
-* `WEBHOOK` - If your server is need web service! value = True else value = False. `Optional`
+
 
   ### 📶 DEPLOYEMENT SUPPORT
 
