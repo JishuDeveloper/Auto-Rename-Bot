@@ -81,9 +81,9 @@ status - Check bot status [FOR ADMINS USE ONLY].
 
 
 ### ❤️ Respecting... ❤️
-- [🔥 JishuDeveloper](https://github.com/JishuDeveloper)
-- [🔥 Trippy](https://github.com/Trippy07) 
-- [🔥 lntechnical](https://github.com/lntechnical2)
+- [JishuDeveloper](https://github.com/JishuDeveloper)
+- [Trippy](https://github.com/Trippy07) 
+- [lntechnical](https://github.com/lntechnical2)
 
 ### 😍 BOTS CHANNEL 😍
 <a href="https://t.me/madflix_bots">
