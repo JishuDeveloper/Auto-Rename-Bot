@@ -80,7 +80,7 @@ status - Check bot status [FOR ADMINS USE ONLY].
 
 
 
-### ❤️ Respecting... ❤️
+### ❤️ RESPECTING ❤️
 - [JishuDeveloper](https://github.com/JishuDeveloper)
 - [Trippy](https://github.com/Trippy07) 
 - [lntechnical](https://github.com/lntechnical2)
