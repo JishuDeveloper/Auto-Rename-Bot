@@ -63,22 +63,22 @@
 
 ### USER COMMANDS
 
-`/start` - Check if the bot is running.
-`/autorename` - To auto rename your files.
-`/setmedia` - To set your media type preference.
-`/start` - To know how to use me.
-`/viewthumb` - To view current thumbnail.
-`/delthumb` - To delete current thumbnail.
-`/set_caption` - set a custom caption.
-`/see_caption` - see your custom caption.
-`/del_caption` - delete custom caption.
+```start - Check if the bot is running.
+autorename - To auto rename your files.
+setmedia - To set your media type preference.
+start - To know how to use me.
+viewthumb - To view current thumbnail.
+delthumb - To delete current thumbnail.
+set_caption - set a custom caption.
+see_caption - see your custom caption.
+del_caption - delete custom caption.```
 
 
 ### ADMIN COMMANDS
 
-`/restart` - To restart the bot [FOR ADMINS USE ONLY]
- `/broadcast` - Message Broadcast command [FOR ADMINS USE ONLY].
- `/status` - Check bot status [FOR ADMINS USE ONLY].
+```restart - To restart the bot [FOR ADMINS USE ONLY]
+broadcast - Message Broadcast command [FOR ADMINS USE ONLY].
+status - Check bot status [FOR ADMINS USE ONLY].```
 
 
 
