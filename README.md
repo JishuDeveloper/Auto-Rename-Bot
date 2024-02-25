@@ -77,3 +77,15 @@ restart - To restart the bot [FOR ADMINS USE ONLY]
 broadcast - Message Broadcast command [FOR ADMINS USE ONLY].
 status - Check bot status [FOR ADMINS USE ONLY].
 ```
+
+
+
+### ❤️ Respecting... ❤️
+- [🔥 JishuDeveloper](https://github.com/JishuDeveloper)
+- [🔥 Trippy](https://github.com/Trippy07) 
+- [🔥 lntechnical](https://github.com/lntechnical2)
+
+### 😍 BOTS CHANNEL 😍
+<a href="https://t.me/madflix_bots">
+   <p>🤖 Madflix Botz</p>
+</a>
