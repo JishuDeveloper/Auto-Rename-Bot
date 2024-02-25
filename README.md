@@ -4,7 +4,7 @@
  <b><a href="https://t.me/autorenamexbot" target="/blank"> Auto Rename Bot </a></>
 </h1>
 
-<p align="center">😊 Thanks for Being Here 😊</p>
+<p align="center">🩵 Thanks for Being Here 🩵</p>
 
 
 ### CONFIGS VARIABLES
