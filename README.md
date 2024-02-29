@@ -67,7 +67,7 @@
 start - Check if the bot is running.
 autorename - To auto rename your files.
 setmedia - To set your media type preference.
-start - To know how to use me.
+tutorial - To know how to use me.
 viewthumb - To view current thumbnail.
 delthumb - To delete current thumbnail.
 set_caption - set a custom caption.
