@@ -92,5 +92,5 @@ status - Check bot status [FOR ADMINS USE ONLY].
 
 ### ☕ BUY ME A COFFEE ☕
 - [PayPal](https://paypal.me/jishudeveloper/2.50USD)
-- [PhonePe](https://t.me/Madflix_Bots)
+- [PhonePe](https://graph.org/file/6822df5af3a2e80637172.jpg)
 - [UPI](https://t.me/Madflix_Bots)
