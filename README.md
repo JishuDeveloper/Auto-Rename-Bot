@@ -89,3 +89,8 @@ status - Check bot status [FOR ADMINS USE ONLY].
 ### 💕 CONTACT DEVELOPER 💕
 - [Jishu Developer](https://t.me/JishuDeveloper)
 - [Trippy](https://t.me/Trippy_xt)
+
+### ☕ BUY ME A COFFEE ☕
+- [PayPal](https://paypal.me/jishudeveloper/2.50USD)
+- [PhonePe](https://t.me/Madflix_Bots)
+- [UPI](https://t.me/Madflix_Bots)
