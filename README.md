@@ -46,7 +46,6 @@
 ### FEATURES
  - Renames very fast .
  - Permanent Thumbnail support.
- - Force join for the user for use.
  - Supports Broadcasts.
  - Set custom caption.
  - Has a custom Start-up pic.
@@ -85,3 +84,8 @@ status - Check bot status [FOR ADMINS USE ONLY].
 
 ### 😍 BOTS CHANNEL 😍
 - [Madflix Botz](https://t.me/Madflix_Bots)
+- [Jishu Botz](https://t.me/JishuBotz)
+
+### 💕 CONTACT DEVELOPER 💕
+- [Jishu Developer](https://t.me/JishuDeveloper)
+- [Trippy](https://t.me/@Trippy_xt)
