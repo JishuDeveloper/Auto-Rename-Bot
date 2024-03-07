@@ -88,4 +88,4 @@ status - Check bot status [FOR ADMINS USE ONLY].
 
 ### 💕 CONTACT DEVELOPER 💕
 - [Jishu Developer](https://t.me/JishuDeveloper)
-- [Trippy](https://t.me/@Trippy_xt)
+- [Trippy](https://t.me/Trippy_xt)
