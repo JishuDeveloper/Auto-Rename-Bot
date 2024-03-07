@@ -19,7 +19,7 @@
 * `FORCE_SUB` - Your force sub channel username without @ (Optional)
 * `START_PIC` - Start message photo. (Optional)
 
-
+<hr>
 
 ### DEPLOYEMENT SUPPORT
 
