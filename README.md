@@ -23,14 +23,13 @@
 
 ### DEPLOYEMENT SUPPORT
 
-<details><summary>Deploy To Koyeb</summary>
+<summary>Deploy To Koyeb</summary>
 <p>
 <br>                 
 <a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/JishuDeveloper/Auto-Rename-Bot&branch=main&name=auto-rename-bot" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
-</details>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
