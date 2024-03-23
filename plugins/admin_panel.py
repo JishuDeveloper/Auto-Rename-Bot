@@ -36,8 +36,8 @@ async def tutorial(bot,message):
 	    text =Txt.FILE_NAME_TXT.format(format_template=format_template),
 	    disable_web_page_preview=True,
 	    reply_markup=InlineKeyboardMarkup([
-        			[InlineKeyboardButton("🦋 Admin",url = "https://t.me/CallAdminRobot"), 
-        			InlineKeyboardButton("⚡ Tutorial",url = "https://t.me/MadflixBots_Support") ]])
+        			[InlineKeyboardButton("🦋 Admin",url = "https://t.me/ZORO1SENPAI"), 
+        			InlineKeyboardButton("⚡ Tutorial",url = "https://t.me/animeotaku109") ]])
 	)
 
 
@@ -101,5 +101,5 @@ async def send_msg(user_id, message):
 
 # Jishu Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Developer @JishuDeveloper
+# Telegram Channel Kholke @animeotaku109
+# Developer @ZORO1SENPAI
