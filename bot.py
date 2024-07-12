@@ -5,6 +5,10 @@ from pyrogram.raw.all import layer
 from config import Config
 from aiohttp import web
 from route import web_server
+import pyrogram.utils
+
+pyrogram.utils.MIN_CHANNEL_ID = -1009147483647
+
 
 class Bot(Client):
 
